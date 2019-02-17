@@ -3,7 +3,9 @@
 
 ## Q Server
 
-### Author: Siobhan Niess and Becca Lee
+### Author: Heather Cherewaty
+#### Collaborated with:  Becca Lee
+
 
 ### Links and Resources
 * [repo](https://github.com/niesssiobhan/10-project-q)
